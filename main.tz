@@ -1,0 +1,11 @@
+import "day1/calculator.py";
+import "day1/variables.py";
+import "day1/hello.py";
+
+main{
+
+call " python3 day1/calculator.py" ;
+call "python3 day1/hello.py";
+call "python3 day1/variables.py";
+
+}
